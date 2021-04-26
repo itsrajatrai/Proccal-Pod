@@ -11,3 +11,10 @@ Indian Languages- The Platform provides contents in multiple Indian Languages an
 User Experience- The Platform provides high quality user experience and strong design principles that ensure that the user is not overwhelmed with the breadth of content available.
 
 Access- The Platform will be soon available on Google Playstore and Apple Store. 
+
+
+<b>Technology Used:</b><br>
+● Frontend: ReactJs, HTML, CSS & JavaScript<br>
+● Backend: NodeJs, Express and Some other API’s<br>
+● Database : MongoDB Atlas<br>
+● Cloud: AWS/ Google Cloud<br>
