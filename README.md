@@ -21,7 +21,4 @@ Access- The Platform will be soon available on Google Playstore and Apple Store.
 
 
 <b> Screenshots of the Projects<b>
- ![image](https://user-images.githubusercontent.com/61858752/116037944-6da09100-a686-11eb-83d2-3343e747c022.png)
-
-<br>
-![image](https://user-images.githubusercontent.com/61858752/116038034-87da6f00-a686-11eb-9186-3d1fe2e559c9.png)
+ 
